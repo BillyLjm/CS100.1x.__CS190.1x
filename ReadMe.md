@@ -9,8 +9,8 @@ __Date:__ June 2015
 __School:__ University of California, Berkeley  
 
 ## Certificate
-<a href="https://s3.amazonaws.com/verify.edx.org/downloads/bc828109d5c747b790571144a623f732/Certificate.pdf"><img src="./CS100.1x_Certificate.jpg" alt="CS100.1x Certificate" height="300px"></a>  
-<a href="https://s3.amazonaws.com/verify.edx.org/downloads/666aa575bf6e4519a3ec0ef5e44c6841/Certificate.pdff"><img src="./CS190.1x_Certificate.jpg" alt="CS190.1x Certificate" height="300px"></a>  
+<a href="https://s3.amazonaws.com/verify.edx.org/downloads/bc828109d5c747b790571144a623f732/Certificate.pdf"><img src="./CS100.1x_Certificate.jpg" alt="CS100.1x Certificate" height="300px"></a>
+<a href="https://s3.amazonaws.com/verify.edx.org/downloads/666aa575bf6e4519a3ec0ef5e44c6841/Certificate.pdf"><img src="./CS190.1x_Certificate.jpg" alt="CS190.1x Certificate" height="300px"></a>  
 
 ## Description 
 The questions are written directly into each file,  
